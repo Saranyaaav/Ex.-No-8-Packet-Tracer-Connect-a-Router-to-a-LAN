@@ -1,5 +1,5 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
-# Date: ___________
+# Date: 11.02.2026
 ________________________________________<br>
 # Objective
 Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test end-to-end connectivity.<br>
@@ -113,6 +113,9 @@ ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2 (after configuration)<br>
 •	show ip route on R1 and R2<br>
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/ec55c598-9684-42f9-8912-378eec057536" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/19d11024-37ea-4947-a8c1-05dc418c4e7e" />
+
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>
 ________________________________________<br>

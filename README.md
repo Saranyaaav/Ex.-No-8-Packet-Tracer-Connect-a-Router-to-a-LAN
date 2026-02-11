@@ -121,6 +121,8 @@ ________________________________________<br>
 
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/1f4ae5ff-bc4e-4c37-a88e-f885254dbf42" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a5f20e07-2f27-4ee0-a688-bfa61c0df846" />
 ________________________________________<br>
 # Result
 R1 and R2 were configured with correct IPv4 addresses and interface descriptions, links were brought up, routing tables showed connected networks, and end-to-end connectivity between PCs across the WAN link was verified using pings. The configurations were saved to NVRAM for persistence.<br>

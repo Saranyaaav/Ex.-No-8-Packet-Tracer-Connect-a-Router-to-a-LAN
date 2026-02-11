@@ -120,6 +120,9 @@ ________________________________________<br>
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/19d11024-37ea-4947-a8c1-05dc418c4e7e" />
 
 •	Successful ping PC1 → PC4; R2 → PC2<br>
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/e9ea4ce3-42c7-428b-b02a-9987610896af" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/3a8fc675-2c54-40ac-9c8e-8a634250641e" />
+
 •	Interface up messages after no shutdown on each link <br>
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/1f4ae5ff-bc4e-4c37-a88e-f885254dbf42" />
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a5f20e07-2f27-4ee0-a688-bfa61c0df846" />
